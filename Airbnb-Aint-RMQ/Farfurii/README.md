@@ -33,4 +33,4 @@ Care farfurie are `kmax - k` farfurii mai mari decat ea? Pentru a obtine aranjam
 
  ## Sursa infoarena
 
- [Sursa Farfurii] (https://www.infoarena.ro/job_detail/2749881?action=view-source)
+ [Sursa Farfurii](https://www.infoarena.ro/job_detail/2749881?action=view-source)
