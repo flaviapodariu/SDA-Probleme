@@ -1,5 +1,4 @@
-#Farfurii
-
+# Farfurii
 
  ## Idee generala
 
