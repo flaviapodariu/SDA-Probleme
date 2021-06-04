@@ -1,3 +1,3 @@
-# DSA-Problems
+# SDA-Probleme
 
-Solutions to a few problems solved during the first year of university.
+Solutii petnru cateva probleme primite ca tema in anul 1, semestrul 2.
