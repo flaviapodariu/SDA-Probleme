@@ -6,7 +6,7 @@
 Folosesc un arbore indexat binar pentru a pastra eficient numarul de oameni din baruri.
 Nu am mai pastrat un vector diferit pentru datele din input, am creat direct arborele.
 
-Link catre notitele mele pentru arborele indexat binar/ Fenwick Tree [aici]()
+Link catre notitele mele pentru arborele indexat binar/ Fenwick Tree [aici](https://github.com/flaviapodariu/SDA-Probleme/blob/main/Airbnb-Aint-RMQ/Notite%20Fenwick%20Tree.md)
 
 Pentru ca barurile sunt indexate de la 1, toate intervalele existente in link cresc cu o unitate. 
 
