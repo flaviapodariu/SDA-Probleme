@@ -3,7 +3,7 @@
 ## Idee generala
 
  Problema de arbori indexati binar. Construiesc direct arborele, fara sa mai tin un vector separat pentru input.
- Link catre notitele mele pentru arborele indexat binar/ Fenwick Tree [aici]()
+ Link catre notitele mele pentru arborele indexat binar/ Fenwick Tree [aici](https://github.com/flaviapodariu/SDA-Probleme/blob/main/Airbnb-Aint-RMQ/Notite%20Fenwick%20Tree.md)
 
 ## Explicatie
 -> datorii pe zile, 1<= zi <=N : 1 3 2 0 0 10
