@@ -24,7 +24,7 @@
 
 -> Daca numerele sunt in ordine strict crescatoare, se genereaza 0 inversiuni.
 
--> Daca scazand din kmax toate inversiunile care pot fi generate de o anumita farfurie, obtinem un numar mai mare sau egal decat k (`kmax - (n-i) >= k`), inseamna ca acea farfurie poate fi plasata pe raft inaintea celorlalte ramase. In caz contrar, aceasta ar genera mai multe combinatii decat tacamuri disponibile.
+-> Daca scazand din kmax toate inversiunile care pot fi generate de o anumita farfurie, obtinem un numar mai mare sau egal decat k (`kmax - (n-i) >= k`), inseamna ca acea farfurie poate fi plasata pe raft inaintea celorlalte ramase. In caz contrar, aceasta ar genera mai multe inversiuni decat tacamuri disponibile.
 
 -> Se repeta procesul pana cand conditia de mai sus nu mai este valida, moment in care apar 2 cazuri:
 
