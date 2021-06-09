@@ -11,10 +11,13 @@
  7 6 5 4 3 2 1
 
  1: toate numerele sunt mai mari decat 1, deci genereaza 6 inversiuni.
+ 
  2: toate numerele mai putin 1 sunt mai mari decat 2,  deci genereaza 5 inversiuni.
+ 
  .
  .
  .
+ 
  7:  0 inversiuni
 
  Deci suma totala este suma gauss pana la 6 : (6*7)/2 = 21.
