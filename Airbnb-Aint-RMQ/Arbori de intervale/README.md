@@ -39,7 +39,7 @@ Se da un interval [x,y]. Exista 3 cazuri:
 
 -> In cazul 1 returnez direct valoarea tinuta de nod. 
 
--> In cazul 2 trebuie sa verific ambii fii pentru a gasi partea de interval care ma intereseaza. Returnez minimul dintre fii.
+-> In cazul 2 trebuie sa verific ambii fii pentru a gasi partea de interval care ma intereseaza. Returnez maximul dintre fii.
 
 -> In cazul 3 returnez -1 (inputul este pozitiv)
 
