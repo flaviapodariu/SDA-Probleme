@@ -71,8 +71,8 @@ long query(int low, int high)
 
 ## Complexitati
 
-Preprocesare: O(n^2) -> pentru RMQ pe vector
+Preprocesare: O(nlogn) -> pentru RMQ pe vector
              
-              O(n^3) -> pentru RMQ in 2D --> problema [Plantatie](https://github.com/flaviapodariu/SDA-Probleme/tree/main/Airbnb-Aint-RMQ/Plantatie)
+              O(n^2logn) -> pentru RMQ in 2D --> problema [Plantatie](https://github.com/flaviapodariu/SDA-Probleme/tree/main/Airbnb-Aint-RMQ/Plantatie)
 
 Query: O(1)
