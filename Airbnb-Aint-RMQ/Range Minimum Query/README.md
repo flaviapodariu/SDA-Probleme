@@ -22,7 +22,7 @@ ex. input: n = 6 elemente -> 1 5 6 4 3 2
 
 sparse[0][1] = minimul din intervalul [0,1] => minimul dintre [0,0] si [1,1] = min(sparse[0,0], sparse[1][0]) = 1.
 
-sparse[1][2] = minimul din intervalul [1,4] => min(sparse[1,1], sparse[3][1]) = 3.
+sparse[1][2] = minimul din intervalul [1,4] => min(sparse[1][1], sparse[3][1]) = 3.
 
  ### Cod construire sparse table
 ```c++
